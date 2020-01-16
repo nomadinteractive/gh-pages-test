@@ -1,2 +1,3 @@
-theme: jekyll-theme-slate
 title: GH Test
+# theme: jekyll-theme-slate
+remote_theme: jekyll/minima
